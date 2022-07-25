@@ -8,7 +8,7 @@ import shutil
 from datetime import datetime
 
 root = tk.Tk()
-root.title("Auto File Copier")
+root.title("File Type Finder")
 root.iconbitmap(f"{getcwd()}\\FolderIcon.ico")
 
 main_frame = Frame(root, bg='#2a2a3c')
